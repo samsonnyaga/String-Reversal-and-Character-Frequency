@@ -1,4 +1,4 @@
-#Descriptin: Array selection, Instertion and Deletion
+# Description: Array selection, insertion and deletion
 
 
 #create array
@@ -10,7 +10,7 @@ print("===ARRAY SELECTION===")
 #ARRAY SELECTION (select the value)
 print("element_1:", arr[0])
 print("element_2:", arr[-1])
-print("slice(2:4):", arr[2:5])
+print("slice(2:5):", arr[2:5])
 
 print("===ARRAY INSERTION===")
 #ARRAY INSERTION(add values and position it anywhere)
