@@ -8,8 +8,8 @@ print("original Array:", arr)
 
 print("===ARRAY SELECTION===")
 #ARRAY SELECTION (select the value)
-print("element1:", arr[0])
-print("element2:", arr[-1])
+print("element_1:", arr[0])
+print("element_2:", arr[-1])
 print("slice(2:4):", arr[2:5])
 
 print("===ARRAY INSERTION===")
